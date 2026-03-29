@@ -3,13 +3,13 @@
   "version": "0.1.0",
   "private": true,
   "devDependencies": {
-    "react-scripts": "1.0.7"
+    "react-scripts": "1.1.5"
   },
   "dependencies": {
     "bootstrap": "^4.4.1",
     "react": "^15.5.4",
     "react-dom": "^15.5.4",
-    "react-x-editable": "0.0.10-beta"
+    "react-x-editable": "1.0.1"
   },
   "scripts": {
     "start": "react-scripts start",
